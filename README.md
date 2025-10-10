@@ -49,10 +49,10 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 
 <div align="center">
   <a href="https://github.com/matheusvir">
-    <img height="180em" src="https://github-readme-stats-matheusvirs-projects.vercel.app/api?username=matheusvir&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats-matheusvirs-projects.vercel.app/api?username=matheusvir&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&v=2" alt="Estatísticas do GitHub"/>
   </a>
   <a href="https://github.com/matheusvir">
-    <img height="180em" src="https://github-readme-stats-matheusvirs-projects.vercel.app/api/top-langs/?username=matheusvir&layout=compact&langs_count=6&theme=onedark" alt="Linguagens mais usadas"/>
+    <img height="180em" src="https://github-readme-stats-matheusvirs-projects.vercel.app/api/top-langs/?username=matheusvir&layout=compact&langs_count=6&theme=onedark&v=2" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
