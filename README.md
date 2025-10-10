@@ -64,6 +64,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusvir&theme=nord&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
+
 ---
 
 ## 📫 Contato
