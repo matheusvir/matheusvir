@@ -23,7 +23,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
 </p>
 
-### Ferramentas
+### Ferramentas & Bancos de dados
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="Neovim" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -33,7 +33,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
 
-### Estudando
+### Estudando atualmente
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
