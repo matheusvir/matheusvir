@@ -46,31 +46,24 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <div align="center">
-
   <!-- Estatísticas gerais -->
   <a href="https://github.com/matheusvir">
     <img height="180em" 
-         src="https://github-readme-stats-matheusvirs-projects.vercel.app/api?username=matheusvir&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&bg_color=000000" 
+         src="https://github-readme-stats-matheusvirs-projects.vercel.app/api?username=matheusvir&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&bg_color=00000000" 
          alt="Estatísticas do GitHub"/>
   </a>
-
   <!-- Linguagens mais usadas -->
   <a href="https://github.com/matheusvir">
     <img height="180em" 
          src="https://github-readme-stats-matheusvirs-projects.vercel.app/api/top-langs/?username=matheusvir&layout=compact&langs_count=8&theme=nord&count_private=true&include_all_commits=true&cache_seconds=1800&hide_border=true&bg_color=00000000" 
          alt="Linguagens mais usadas"/>
   </a>
-
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusvir&theme=nord&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
-
 ---
 
 ## 📫 Contato
