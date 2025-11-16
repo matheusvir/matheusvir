@@ -30,7 +30,6 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 </p>
 
 ### Estudando atualmente
@@ -39,6 +38,8 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="Shell Script" title="Shell Script" style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" title="AWS" style="filter: invert(1);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R" />
 </p>
 
 </div>
@@ -73,7 +74,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgolinomatheus)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.virgolino.abilio.da.silva@ccc.ufcg.edu.br)
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/matheusvir)
+[![Currículo](https://img.shields.io/badge/Currículo-5865F2?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1f0CZqIip_akeSn0M6hWH_dn-xp_RZz4A/view?usp=sharing)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
