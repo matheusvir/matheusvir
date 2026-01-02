@@ -56,7 +56,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
   <!-- Linguagens mais usadas -->
   <a href="https://github.com/matheusvir">
     <img height="180em" 
-         src="https://github-readme-stats-matheusvirs-projects.vercel.app/api/top-langs/?username=matheusvir&layout=compact&langs_count=8&theme=nord&count_private=true&include_all_commits=true&cache_seconds=1800&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook" 
+         src="https://github-readme-stats-matheusvirs-projects.vercel.app/api/top-langs/?username=matheusvir&layout=compact&langs_count=8&theme=nord&count_private=true&include_all_commits=true&cache_seconds=1800&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,HTML,Lua" 
          alt="Linguagens mais usadas"/>
 
 ---
