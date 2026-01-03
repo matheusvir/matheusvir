@@ -31,6 +31,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="Shell Script" title="Shell Script" style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
@@ -67,7 +68,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgolinomatheus)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.virgolino.abilio.da.silva@ccc.ufcg.edu.br)
-[![Currículo](https://img.shields.io/badge/Currículo-5865F2?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1f0CZqIip_akeSn0M6hWH_dn-xp_RZz4A/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/Currículo-5865F2?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1gWQ9IZVrfSMkoFhvZ0gqgJMyb5IFAaqE/view?usp=sharing)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
