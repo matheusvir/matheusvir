@@ -68,7 +68,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgolinomatheus)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.virgolino.abilio.da.silva@ccc.ufcg.edu.br)
-[![Currículo](https://img.shields.io/badge/Currículo-5865F2?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1gWQ9IZVrfSMkoFhvZ0gqgJMyb5IFAaqE/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/Currículo-5865F2?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1r_j0yajZwTuUZ6u5Mywy18dy0o8GiuCQ/view?usp=sharing)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
