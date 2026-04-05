@@ -2,7 +2,7 @@
 
 ## 📝 Sobre mim
 
-Sou **Matheus Virgolino**, estudante de Ciência da Computação na UFCG e atualmente atuo como pesquisador e desenvolvedor no Laboratório de Inteligência Artificial e Arquiteturas Dedicadas (LIAD). 
+Sou **Matheus Virgolino**, estudante de Ciência da Computação na UFCG e atualmente atuo como pesquisador e desenvolvedor no Laboratório Agents4Good / KunumiLab na UFCG.
 
 Tenho grande fascínio por matemática, dados e automações, com especial interesse nas áreas de **Ciência de Dados**, **Inteligência Artificial** e **Computação em Nuvem**.
 
