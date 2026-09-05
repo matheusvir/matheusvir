@@ -2,9 +2,9 @@
 
 ## 📝 Sobre mim
 
-Sou **Matheus Virgolino**, estudante de Ciência da Computação na UFCG e atualmente atuo como pesquisador e desenvolvedor no Laboratório Agents4Good / KunumiLab na UFCG.
+Sou **Matheus Virgolino**, estudante de Ciência da Computação na UFCG e pesquisador e desenvolvedor em Inteligência Artificial.
 
-Tenho grande fascínio por matemática, dados e automações, com especial interesse nas áreas de **Ciência de Dados**, **Inteligência Artificial** e **Computação em Nuvem**.
+Gosto de transformar problemas em soluções usando dados, automação e modelos de IA. Atualmente, tenho explorado especialmente segurança, avaliação de sistemas baseados em LLMs e desenvolvimento de agentes autônomos.
 
 ---
 
@@ -20,8 +20,11 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
+<img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" />
+<img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" title="LangGraph" />
 </p>
 
 ### Ferramentas & Bancos de dados
@@ -31,15 +34,8 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="Shell Script" title="Shell Script" style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-</p>
-
-### Estudando atualmente
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" title="AWS" style="filter: invert(1);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+<img src="https://cdn.simpleicons.org/opencode" height="40" alt="OpenCode" title="OpenCode" />
 </p>
 
 </div>
@@ -68,7 +64,7 @@ Tenho grande fascínio por matemática, dados e automações, com especial inter
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgolinomatheus)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.virgolino.abilio.da.silva@ccc.ufcg.edu.br)
-[![Currículo](https://img.shields.io/badge/Currículo-5865F2?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1r_j0yajZwTuUZ6u5Mywy18dy0o8GiuCQ/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/Currículo-5865F2?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1svFCuzf9YSfvA7HAfKAQ52CZj-88mxHq/view?usp=sharing)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
