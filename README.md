@@ -23,7 +23,7 @@ Gosto de transformar problemas em soluções usando dados, automação e modelos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
-<img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" />
+<img src="https://cdn.simpleicons.org/langchain/7FC8FF" height="40" alt="LangChain" title="LangChain" />
 <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" title="LangGraph" />
 </p>
 
@@ -35,7 +35,7 @@ Gosto de transformar problemas em soluções usando dados, automação e modelos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="Shell Script" title="Shell Script" style="filter: invert(1);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://cdn.simpleicons.org/opencode" height="40" alt="OpenCode" title="OpenCode" />
+<img src="https://cdn.simpleicons.org/opencode/666666" height="40" alt="OpenCode" title="OpenCode" />
 </p>
 
 </div>
